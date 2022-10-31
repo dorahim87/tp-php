@@ -1,0 +1,29 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a{
+    color: green;
+}
+h3{
+    color: rgb(39, 39, 160);
+}
+h4{
+    color: rgb(98, 98, 158);
+}
+a:hover{
+    color: rgb(46, 38, 38);
+    background-color: lightgrey;
+}
+
+nav{
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+}
+div{
+    border: 1px solid gray;
+    padding: 10px;
+    margin: 20px;
+    background-color: aliceblue;
+}
